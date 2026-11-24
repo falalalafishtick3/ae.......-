@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "dev.aether.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["CameraMixin", "ClientPlayNetworkHandlerMixin", "PlayerEntityMixin", "MinecraftClientAccessor", "ScreenMixin", "EntityMixin", "InteractionManagerAccessor", "BlockModelRendererMixin", "AttackMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
